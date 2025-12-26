@@ -1,0 +1,7 @@
+{
+  "name": "Vocal Analyzer AI",
+  "description": "An advanced AI-powered vocal analysis tool that evaluates vocal quality, estimates age/gender perception, and provides expert feedback from physiological and acting perspectives.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
